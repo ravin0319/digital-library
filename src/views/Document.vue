@@ -34,10 +34,10 @@ export default {
   },
   mounted() {
 
-
     if (this.$route.fullPath.includes("create-document")) {
+
       this.view = false
-    } else if (this.$route.params.id) {
+    } else if (this.$route.params.projectId && this.$route.params.documentId) {
       this.view = true
     }
 

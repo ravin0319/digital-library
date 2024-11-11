@@ -2,9 +2,9 @@
   <div>
     <Header></Header>
 
-    <ProjectList title="Your Projects" source="projects" :list="projectStore.ownProjects" />
+    <ProjectList title="Your Projects" source="projects" :list="mainStore.ownProjects" />
 
-    <ProjectList title="Shared Projects" source="projects" :list="projectStore.sharedProjects" />
+    <ProjectList title="Shared Projects" source="projects" :list="mainStore.sharedProjects" />
 
     <Footer />
   </div>
@@ -13,7 +13,7 @@
 import Header from '../components/Header.vue';
 import Footer from '@/components/Footer.vue'
 import ProjectList from '../components/ProjectList.vue';
-import { useProjectStore } from '../stores/projectStore';
+import { useMainStore } from '../stores/mainStore';
 import { mapStores } from 'pinia';
 
 export default {
@@ -23,7 +23,7 @@ export default {
     Footer
   },
   computed: {
-    ...mapStores(useProjectStore)
+    ...mapStores(useMainStore)
   }
 }
 </script>
