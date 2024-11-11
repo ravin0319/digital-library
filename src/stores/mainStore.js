@@ -12,8 +12,7 @@ export const useMainStore = defineStore('main', {
             projectId: 1,
             title: 'Price List Generator',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -25,22 +24,19 @@ export const useMainStore = defineStore('main', {
             projectId: 2,
             title: 'Report A',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 2,
             title: 'Report B',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 2,
             title: 'Report C',
             documentId: 3,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -52,8 +48,7 @@ export const useMainStore = defineStore('main', {
             projectId: 3,
             title: 'Summary 1',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -65,15 +60,13 @@ export const useMainStore = defineStore('main', {
             projectId: 4,
             title: 'Technical Doc',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 4,
             title: 'User Guide',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -85,22 +78,19 @@ export const useMainStore = defineStore('main', {
             projectId: 5,
             title: 'Research Paper 1',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 5,
             title: 'Research Paper 2',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 5,
             title: 'Research Paper 3',
             documentId: 3,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -112,8 +102,7 @@ export const useMainStore = defineStore('main', {
             projectId: 6,
             title: 'Budget Overview',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -125,22 +114,19 @@ export const useMainStore = defineStore('main', {
             projectId: 7,
             title: 'Initial Plan',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 7,
             title: 'Execution Steps',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 7,
             title: 'Feedback Summary',
             documentId: 3,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -152,15 +138,13 @@ export const useMainStore = defineStore('main', {
             projectId: 8,
             title: 'Meeting Notes 1',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 8,
             title: 'Meeting Notes 2',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -172,8 +156,7 @@ export const useMainStore = defineStore('main', {
             projectId: 9,
             title: 'Proposal Draft',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -185,15 +168,13 @@ export const useMainStore = defineStore('main', {
             projectId: 10,
             title: 'Design Document',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 10,
             title: 'Blueprints',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -205,29 +186,25 @@ export const useMainStore = defineStore('main', {
             projectId: 11,
             title: 'Case Study 1',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 11,
             title: 'Case Study 2',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 11,
             title: 'Case Study 3',
             documentId: 3,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 11,
             title: 'Case Study 4',
             documentId: 4,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -241,29 +218,25 @@ export const useMainStore = defineStore('main', {
             projectId: 12,
             title: 'Case Study 1',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 12,
             title: 'Case Study 2',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 12,
             title: 'Case Study 3',
             documentId: 3,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 12,
             title: 'Case Study 4',
             documentId: 4,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -275,8 +248,7 @@ export const useMainStore = defineStore('main', {
             projectId: 13,
             title: 'Workshop Agenda',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -288,15 +260,13 @@ export const useMainStore = defineStore('main', {
             projectId: 14,
             title: 'Checklist',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 14,
             title: 'Completion Report',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -308,15 +278,13 @@ export const useMainStore = defineStore('main', {
             projectId: 15,
             title: 'Analysis Report',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 15,
             title: 'Survey Results',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -328,8 +296,7 @@ export const useMainStore = defineStore('main', {
             projectId: 16,
             title: 'Strategy Outline',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -341,22 +308,19 @@ export const useMainStore = defineStore('main', {
             projectId: 17,
             title: 'Documentation Guide',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 17,
             title: 'Reference Material',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 17,
             title: 'Appendix',
             documentId: 3,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -368,8 +332,7 @@ export const useMainStore = defineStore('main', {
             projectId: 18,
             title: 'Implementation Plan',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -381,15 +344,13 @@ export const useMainStore = defineStore('main', {
             projectId: 19,
             title: 'Review 1',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 19,
             title: 'Review 2',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -401,15 +362,13 @@ export const useMainStore = defineStore('main', {
             projectId: 20,
             title: 'Audit Report',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 20,
             title: 'Summary of Findings',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
@@ -421,15 +380,13 @@ export const useMainStore = defineStore('main', {
             projectId: 21,
             title: 'Training Manual',
             documentId: 1,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
           {
             projectId: 21,
             title: 'Best Practices',
             documentId: 2,
-            document:
-              '<div><h4>Price List Generator</h4><p>You can download the Price List via the MyCLS Partner Portal.</p> <p><b>Step 1:</b> Select My Tools and click on Download Price List.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/download.png"></div><p>The below page shown below will be loaded.</p><p><b>Step 2:</b>Enter the following details:</p><table class="table"><tbody><tr><th>Field</th><th>Description</th></tr><tr><td>Select Your Company</td><td>The company you work for. Auto Populated based on the partner portal login.</td></tr><tr><td>Select Distributor</td><td>The distributor for whom you would like to generate the price list</td></tr><tr><td>Select Pricing Date</td><td>The price list generator shows prices that are valid for the selected date.</td></tr></tbody></table><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/pricelist.png"></div><p><b>Step 3:</b> Click on the Generate Price List button.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/generatelist.png"></div><p>You will see the below popup and will receive an email with the attached pricelist.</p><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/popup1.png"></div><div class="nochange"><img src="https://www.webtools.cooperlighting.com/priceManagement/images/listemail.png"></div></div>',
+            document: '<div><h4>Price List Generator</h4></div>',
           },
         ],
       },
